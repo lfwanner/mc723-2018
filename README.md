@@ -1,4 +1,4 @@
-# Máquina Virtual para MC723/MC733 2017-1
+# Máquina Virtual para MC723/MC733 2018-1
 
 Siga as intruções abaixo para configurar a sua VM.
 
